@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2021-01-29T02:43:53.696331700Z</date>
+  <millis>1611888233696</millis>
+  <nanos>331700</nanos>
+  <sequence>2</sequence>
+  <logger>org.fujitsu.training.codes.Mathematics</logger>
+  <level>WARNING</level>
+  <class>org.fujitsu.training.codes.Mathematics</class>
+  <method>div</method>
+  <thread>1</thread>
+  <message>deprecated Date object used</message>
+</record>
+<record>
+  <date>2021-01-29T02:43:53.711428200Z</date>
+  <millis>1611888233711</millis>
+  <nanos>428200</nanos>
+  <sequence>3</sequence>
+  <logger>org.fujitsu.training.codes.Mathematics</logger>
+  <level>SEVERE</level>
+  <class>org.fujitsu.training.codes.Mathematics</class>
+  <method>div</method>
+  <thread>1</thread>
+  <message>division by zero error</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2021-01-29T02:46:27.871355100Z</date>
+  <millis>1611888387871</millis>
+  <nanos>355100</nanos>
+  <sequence>2</sequence>
+  <logger>org.fujitsu.training.codes.Mathematics</logger>
+  <level>WARNING</level>
+  <class>org.fujitsu.training.codes.Mathematics</class>
+  <method>div</method>
+  <thread>1</thread>
+  <message>deprecated Date object used</message>
+</record>
+<record>
+  <date>2021-01-29T02:46:27.881511100Z</date>
+  <millis>1611888387881</millis>
+  <nanos>511100</nanos>
+  <sequence>3</sequence>
+  <logger>org.fujitsu.training.codes.Mathematics</logger>
+  <level>SEVERE</level>
+  <class>org.fujitsu.training.codes.Mathematics</class>
+  <method>div</method>
+  <thread>1</thread>
+  <message>division by zero error</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2021-01-29T02:46:40.284543200Z</date>
+  <millis>1611888400284</millis>
+  <nanos>543200</nanos>
+  <sequence>2</sequence>
+  <logger>org.fujitsu.training.codes.Mathematics</logger>
+  <level>WARNING</level>
+  <class>org.fujitsu.training.codes.Mathematics</class>
+  <method>div</method>
+  <thread>1</thread>
+  <message>deprecated Date object used</message>
+</record>
+<record>
+  <date>2021-01-29T02:46:40.302861500Z</date>
+  <millis>1611888400302</millis>
+  <nanos>861500</nanos>
+  <sequence>3</sequence>
+  <logger>org.fujitsu.training.codes.Mathematics</logger>
+  <level>SEVERE</level>
+  <class>org.fujitsu.training.codes.Mathematics</class>
+  <method>div</method>
+  <thread>1</thread>
+  <message>division by zero error</message>
+</record>
+</log>
+Jan 29, 2021 10:51:34 AM org.fujitsu.training.codes.Mathematics div
+WARNING: deprecated Date object used
+Jan 29, 2021 10:51:34 AM org.fujitsu.training.codes.Mathematics div
+SEVERE: division by zero error
